@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.angular/
+.netlify/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+.local-data/
+.env
